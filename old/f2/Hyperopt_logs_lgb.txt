@@ -1,0 +1,295 @@
+Accuracy of lgb 0.754 params {'max_depth': 18, 'learning_rate': '0.500', 'n_estimators': 900, 'min_child_weight': 3, 'gamma': '3.700', 'subsample': '0.500', 'colsample_bytree': '0.400', 'reg_alpha': '1.300', 'scale_pos_weight': '4.900'}
+Accuracy of lgb 0.793 params {'max_depth': 18, 'learning_rate': '0.050', 'n_estimators': 1100, 'min_child_weight': 16, 'gamma': '1.600', 'subsample': '0.500', 'colsample_bytree': '0.300', 'reg_alpha': '4.600', 'scale_pos_weight': '4.500'}
+Accuracy of lgb 0.791 params {'max_depth': 18, 'learning_rate': '0.260', 'n_estimators': 1400, 'min_child_weight': 17, 'gamma': '1.100', 'subsample': '0.500', 'colsample_bytree': '0.700', 'reg_alpha': '4.100', 'scale_pos_weight': '4.200'}
+Accuracy of lgb 0.787 params {'max_depth': 9, 'learning_rate': '0.420', 'n_estimators': 500, 'min_child_weight': 18, 'gamma': '4.800', 'subsample': '0.500', 'colsample_bytree': '0.600', 'reg_alpha': '2.100', 'scale_pos_weight': '1.400'}
+Accuracy of lgb 0.747 params {'max_depth': 11, 'learning_rate': '0.400', 'n_estimators': 700, 'min_child_weight': 6, 'gamma': '1.300', 'subsample': '0.300', 'colsample_bytree': '0.200', 'reg_alpha': '0.400', 'scale_pos_weight': '4.800'}
+Accuracy of lgb 0.772 params {'max_depth': 19, 'learning_rate': '0.380', 'n_estimators': 1000, 'min_child_weight': 3, 'gamma': '3.500', 'subsample': '0.600', 'colsample_bytree': '0.700', 'reg_alpha': '4.200', 'scale_pos_weight': '5.500'}
+Accuracy of lgb 0.801 params {'max_depth': 6, 'learning_rate': '0.200', 'n_estimators': 900, 'min_child_weight': 18, 'gamma': '2.200', 'subsample': '0.400', 'colsample_bytree': '0.300', 'reg_alpha': '1.100', 'scale_pos_weight': '0.700'}
+Accuracy of lgb 0.786 params {'max_depth': 6, 'learning_rate': '0.400', 'n_estimators': 400, 'min_child_weight': 6, 'gamma': '0.200', 'subsample': '0.500', 'colsample_bytree': '0.600', 'reg_alpha': '2.000', 'scale_pos_weight': '1.000'}
+Accuracy of lgb 0.808 params {'max_depth': 5, 'learning_rate': '0.190', 'n_estimators': 1200, 'min_child_weight': 14, 'gamma': '3.100', 'subsample': '0.400', 'colsample_bytree': '0.300', 'reg_alpha': '3.100', 'scale_pos_weight': '1.000'}
+Accuracy of lgb 0.777 params {'max_depth': 2, 'learning_rate': '0.330', 'n_estimators': 500, 'min_child_weight': 14, 'gamma': '1.000', 'subsample': '0.400', 'colsample_bytree': '0.500', 'reg_alpha': '0.700', 'scale_pos_weight': '2.100'}
+Accuracy of lgb 0.761 params {'max_depth': 8, 'learning_rate': '0.400', 'n_estimators': 700, 'min_child_weight': 18, 'gamma': '0.600', 'subsample': '0.300', 'colsample_bytree': '0.600', 'reg_alpha': '1.700', 'scale_pos_weight': '2.600'}
+Accuracy of lgb 0.789 params {'max_depth': 15, 'learning_rate': '0.140', 'n_estimators': 800, 'min_child_weight': 4, 'gamma': '3.900', 'subsample': '0.400', 'colsample_bytree': '0.300', 'reg_alpha': '2.300', 'scale_pos_weight': '3.400'}
+Accuracy of lgb 0.774 params {'max_depth': 17, 'learning_rate': '0.440', 'n_estimators': 1000, 'min_child_weight': 4, 'gamma': '0.300', 'subsample': '0.500', 'colsample_bytree': '0.800', 'reg_alpha': '1.200', 'scale_pos_weight': '4.000'}
+Accuracy of lgb 0.770 params {'max_depth': 6, 'learning_rate': '0.070', 'n_estimators': 700, 'min_child_weight': 12, 'gamma': '1.000', 'subsample': '0.400', 'colsample_bytree': '0.400', 'reg_alpha': '1.900', 'scale_pos_weight': '3.200'}
+Accuracy of lgb 0.711 params {'max_depth': 3, 'learning_rate': '0.130', 'n_estimators': 1000, 'min_child_weight': 18, 'gamma': '4.800', 'subsample': '0.400', 'colsample_bytree': '0.400', 'reg_alpha': '4.900', 'scale_pos_weight': '5.500'}
+Accuracy of lgb 0.736 params {'max_depth': 6, 'learning_rate': '0.200', 'n_estimators': 500, 'min_child_weight': 18, 'gamma': '2.800', 'subsample': '0.400', 'colsample_bytree': '0.300', 'reg_alpha': '1.800', 'scale_pos_weight': '0.200'}
+Accuracy of lgb 0.801 params {'max_depth': 19, 'learning_rate': '0.080', 'n_estimators': 600, 'min_child_weight': 5, 'gamma': '0.600', 'subsample': '0.400', 'colsample_bytree': '0.300', 'reg_alpha': '3.100', 'scale_pos_weight': '2.000'}
+Accuracy of lgb 0.776 params {'max_depth': 4, 'learning_rate': '0.310', 'n_estimators': 1500, 'min_child_weight': 16, 'gamma': '1.400', 'subsample': '0.300', 'colsample_bytree': '0.800', 'reg_alpha': '1.800', 'scale_pos_weight': '2.400'}
+Accuracy of lgb 0.761 params {'max_depth': 11, 'learning_rate': '0.040', 'n_estimators': 900, 'min_child_weight': 19, 'gamma': '1.300', 'subsample': '0.300', 'colsample_bytree': '0.300', 'reg_alpha': '2.200', 'scale_pos_weight': '5.100'}
+Accuracy of lgb 0.757 params {'max_depth': 1, 'learning_rate': '0.370', 'n_estimators': 700, 'min_child_weight': 5, 'gamma': '0.200', 'subsample': '0.300', 'colsample_bytree': '0.600', 'reg_alpha': '3.700', 'scale_pos_weight': '2.200'}
+Accuracy of lgb 0.745 params {'max_depth': 3, 'learning_rate': '0.130', 'n_estimators': 1300, 'min_child_weight': 10, 'gamma': '5.000', 'subsample': '0.400', 'colsample_bytree': '0.400', 'reg_alpha': '2.800', 'scale_pos_weight': '0.300'}
+Accuracy of lgb 0.784 params {'max_depth': 13, 'learning_rate': '0.230', 'n_estimators': 1100, 'min_child_weight': 9, 'gamma': '4.600', 'subsample': '0.600', 'colsample_bytree': '0.200', 'reg_alpha': '2.700', 'scale_pos_weight': '5.800'}
+Accuracy of lgb 0.601 params {'max_depth': 8, 'learning_rate': '0.000', 'n_estimators': 1200, 'min_child_weight': 20, 'gamma': '2.500', 'subsample': '0.400', 'colsample_bytree': '0.500', 'reg_alpha': '4.800', 'scale_pos_weight': '3.600'}
+Accuracy of lgb 0.720 params {'max_depth': 9, 'learning_rate': '0.010', 'n_estimators': 1300, 'min_child_weight': 20, 'gamma': '2.100', 'subsample': '0.300', 'colsample_bytree': '0.500', 'reg_alpha': '4.700', 'scale_pos_weight': '3.700'}
+Accuracy of lgb 0.595 params {'max_depth': 1, 'learning_rate': '0.120', 'n_estimators': 1200, 'min_child_weight': 20, 'gamma': '4.400', 'subsample': '0.400', 'colsample_bytree': '0.500', 'reg_alpha': '3.700', 'scale_pos_weight': '5.900'}
+Accuracy of lgb 0.766 params {'max_depth': 13, 'learning_rate': '0.010', 'n_estimators': 1200, 'min_child_weight': 20, 'gamma': '4.000', 'subsample': '0.400', 'colsample_bytree': '0.500', 'reg_alpha': '3.500', 'scale_pos_weight': '2.800'}
+Accuracy of lgb 0.808 params {'max_depth': 8, 'learning_rate': '0.100', 'n_estimators': 1500, 'min_child_weight': 13, 'gamma': '4.300', 'subsample': '0.300', 'colsample_bytree': '0.500', 'reg_alpha': '4.300', 'scale_pos_weight': '1.600'}
+Accuracy of lgb 0.484 params {'max_depth': 1, 'learning_rate': '0.010', 'n_estimators': 1300, 'min_child_weight': 15, 'gamma': '3.200', 'subsample': '0.400', 'colsample_bytree': '0.700', 'reg_alpha': '3.700', 'scale_pos_weight': '3.800'}
+Accuracy of lgb 0.623 params {'max_depth': 1, 'learning_rate': '0.160', 'n_estimators': 1400, 'min_child_weight': 15, 'gamma': '3.400', 'subsample': '0.500', 'colsample_bytree': '0.700', 'reg_alpha': '3.700', 'scale_pos_weight': '5.900'}
+Accuracy of lgb 0.693 params {'max_depth': 2, 'learning_rate': '0.100', 'n_estimators': 1400, 'min_child_weight': 11, 'gamma': '4.300', 'subsample': '0.300', 'colsample_bytree': '0.700', 'reg_alpha': '3.300', 'scale_pos_weight': '5.100'}
+Accuracy of lgb 0.555 params {'max_depth': 1, 'learning_rate': '0.040', 'n_estimators': 1100, 'min_child_weight': 1, 'gamma': '3.100', 'subsample': '0.400', 'colsample_bytree': '0.800', 'reg_alpha': '3.900', 'scale_pos_weight': '4.500'}
+Accuracy of lgb 0.707 params {'max_depth': 4, 'learning_rate': '0.040', 'n_estimators': 1100, 'min_child_weight': 8, 'gamma': '1.900', 'subsample': '0.500', 'colsample_bytree': '0.800', 'reg_alpha': '4.000', 'scale_pos_weight': '4.400'}
+Accuracy of lgb 0.775 params {'max_depth': 3, 'learning_rate': '0.260', 'n_estimators': 1300, 'min_child_weight': 2, 'gamma': '3.000', 'subsample': '0.500', 'colsample_bytree': '0.800', 'reg_alpha': '4.500', 'scale_pos_weight': '4.100'}
+Accuracy of lgb 0.736 params {'max_depth': 2, 'learning_rate': '0.460', 'n_estimators': 1100, 'min_child_weight': 1, 'gamma': '2.600', 'subsample': '0.300', 'colsample_bytree': '0.700', 'reg_alpha': '4.000', 'scale_pos_weight': '4.600'}
+Accuracy of lgb 0.806 params {'max_depth': 13, 'learning_rate': '0.030', 'n_estimators': 1400, 'min_child_weight': 16, 'gamma': '3.300', 'subsample': '0.600', 'colsample_bytree': '0.800', 'reg_alpha': '2.700', 'scale_pos_weight': '3.000'}
+Accuracy of lgb 0.771 params {'max_depth': 4, 'learning_rate': '0.300', 'n_estimators': 900, 'min_child_weight': 9, 'gamma': '3.700', 'subsample': '0.400', 'colsample_bytree': '0.700', 'reg_alpha': '4.400', 'scale_pos_weight': '3.800'}
+Accuracy of lgb 0.796 params {'max_depth': 10, 'learning_rate': '0.060', 'n_estimators': 1100, 'min_child_weight': 12, 'gamma': '1.700', 'subsample': '0.500', 'colsample_bytree': '0.600', 'reg_alpha': '3.200', 'scale_pos_weight': '4.800'}
+Accuracy of lgb 0.793 params {'max_depth': 7, 'learning_rate': '0.230', 'n_estimators': 1300, 'min_child_weight': 7, 'gamma': '2.400', 'subsample': '0.500', 'colsample_bytree': '0.700', 'reg_alpha': '3.900', 'scale_pos_weight': '5.300'}
+Accuracy of lgb 0.771 params {'max_depth': 5, 'learning_rate': '0.160', 'n_estimators': 800, 'min_child_weight': 16, 'gamma': '2.900', 'subsample': '0.400', 'colsample_bytree': '0.800', 'reg_alpha': '3.500', 'scale_pos_weight': '4.400'}
+Accuracy of lgb 0.748 params {'max_depth': 16, 'learning_rate': '0.500', 'n_estimators': 1500, 'min_child_weight': 14, 'gamma': '3.200', 'subsample': '0.300', 'colsample_bytree': '0.600', 'reg_alpha': '2.900', 'scale_pos_weight': '3.200'}
+Accuracy of lgb 0.757 params {'max_depth': 5, 'learning_rate': '0.090', 'n_estimators': 1000, 'min_child_weight': 1, 'gamma': '3.900', 'subsample': '0.400', 'colsample_bytree': '0.700', 'reg_alpha': '0.100', 'scale_pos_weight': '4.700'}
+Accuracy of lgb 0.776 params {'max_depth': 20, 'learning_rate': '0.020', 'n_estimators': 800, 'min_child_weight': 17, 'gamma': '3.600', 'subsample': '0.600', 'colsample_bytree': '0.600', 'reg_alpha': '4.200', 'scale_pos_weight': '3.900'}
+Accuracy of lgb 0.735 params {'max_depth': 2, 'learning_rate': '0.180', 'n_estimators': 1200, 'min_child_weight': 11, 'gamma': '2.700', 'subsample': '0.500', 'colsample_bytree': '0.800', 'reg_alpha': '1.500', 'scale_pos_weight': '4.200'}
+Accuracy of lgb 0.786 params {'max_depth': 12, 'learning_rate': '0.280', 'n_estimators': 1000, 'min_child_weight': 13, 'gamma': '2.000', 'subsample': '0.400', 'colsample_bytree': '0.700', 'reg_alpha': '2.300', 'scale_pos_weight': '1.800'}
+Accuracy of lgb 0.764 params {'max_depth': 7, 'learning_rate': '0.350', 'n_estimators': 900, 'min_child_weight': 17, 'gamma': '2.300', 'subsample': '0.300', 'colsample_bytree': '0.800', 'reg_alpha': '2.500', 'scale_pos_weight': '3.500'}
+Accuracy of lgb 0.797 params {'max_depth': 15, 'learning_rate': '0.060', 'n_estimators': 1300, 'min_child_weight': 15, 'gamma': '4.100', 'subsample': '0.400', 'colsample_bytree': '0.600', 'reg_alpha': '0.800', 'scale_pos_weight': '5.500'}
+Accuracy of lgb 0.800 params {'max_depth': 5, 'learning_rate': '0.260', 'n_estimators': 700, 'min_child_weight': 20, 'gamma': '4.900', 'subsample': '0.600', 'colsample_bytree': '0.700', 'reg_alpha': '4.300', 'scale_pos_weight': '2.100'}
+Accuracy of lgb 0.787 params {'max_depth': 9, 'learning_rate': '0.220', 'n_estimators': 600, 'min_child_weight': 4, 'gamma': '4.500', 'subsample': '0.400', 'colsample_bytree': '0.400', 'reg_alpha': '1.200', 'scale_pos_weight': '2.300'}
+Accuracy of lgb 0.778 params {'max_depth': 15, 'learning_rate': '0.370', 'n_estimators': 500, 'min_child_weight': 4, 'gamma': '3.900', 'subsample': '0.600', 'colsample_bytree': '0.400', 'reg_alpha': '3.800', 'scale_pos_weight': '4.600'}
+Accuracy of lgb 0.805 params {'max_depth': 2, 'learning_rate': '0.460', 'n_estimators': 1200, 'min_child_weight': 8, 'gamma': '1.800', 'subsample': '0.400', 'colsample_bytree': '0.800', 'reg_alpha': '4.700', 'scale_pos_weight': '0.900'}
+Accuracy of lgb 0.780 params {'max_depth': 8, 'learning_rate': '0.090', 'n_estimators': 700, 'min_child_weight': 2, 'gamma': '0.400', 'subsample': '0.400', 'colsample_bytree': '0.500', 'reg_alpha': '3.000', 'scale_pos_weight': '4.800'}
+Accuracy of lgb 0.773 params {'max_depth': 19, 'learning_rate': '0.380', 'n_estimators': 1400, 'min_child_weight': 12, 'gamma': '2.700', 'subsample': '0.400', 'colsample_bytree': '0.700', 'reg_alpha': '1.500', 'scale_pos_weight': '2.300'}
+Accuracy of lgb 0.792 params {'max_depth': 19, 'learning_rate': '0.190', 'n_estimators': 1500, 'min_child_weight': 14, 'gamma': '2.400', 'subsample': '0.400', 'colsample_bytree': '0.300', 'reg_alpha': '0.000', 'scale_pos_weight': '2.100'}
+Accuracy of lgb 0.782 params {'max_depth': 12, 'learning_rate': '0.410', 'n_estimators': 1000, 'min_child_weight': 6, 'gamma': '3.500', 'subsample': '0.500', 'colsample_bytree': '0.600', 'reg_alpha': '4.200', 'scale_pos_weight': '2.100'}
+Accuracy of lgb 0.804 params {'max_depth': 11, 'learning_rate': '0.100', 'n_estimators': 600, 'min_child_weight': 18, 'gamma': '1.900', 'subsample': '0.300', 'colsample_bytree': '0.300', 'reg_alpha': '4.300', 'scale_pos_weight': '1.100'}
+Accuracy of lgb 0.791 params {'max_depth': 4, 'learning_rate': '0.300', 'n_estimators': 800, 'min_child_weight': 4, 'gamma': '3.100', 'subsample': '0.500', 'colsample_bytree': '0.600', 'reg_alpha': '2.000', 'scale_pos_weight': '2.200'}
+Accuracy of lgb 0.810 params {'max_depth': 18, 'learning_rate': '0.060', 'n_estimators': 1300, 'min_child_weight': 17, 'gamma': '2.200', 'subsample': '0.400', 'colsample_bytree': '0.400', 'reg_alpha': '3.300', 'scale_pos_weight': '1.800'}
+Accuracy of lgb 0.784 params {'max_depth': 13, 'learning_rate': '0.260', 'n_estimators': 800, 'min_child_weight': 10, 'gamma': '2.300', 'subsample': '0.400', 'colsample_bytree': '0.800', 'reg_alpha': '1.300', 'scale_pos_weight': '3.100'}
+Accuracy of lgb 0.735 params {'max_depth': 3, 'learning_rate': '0.460', 'n_estimators': 400, 'min_child_weight': 8, 'gamma': '0.200', 'subsample': '0.300', 'colsample_bytree': '0.500', 'reg_alpha': '4.500', 'scale_pos_weight': '4.000'}
+Accuracy of lgb 0.783 params {'max_depth': 18, 'learning_rate': '0.250', 'n_estimators': 1400, 'min_child_weight': 10, 'gamma': '4.300', 'subsample': '0.500', 'colsample_bytree': '0.800', 'reg_alpha': '1.000', 'scale_pos_weight': '5.300'}
+Accuracy of lgb 0.773 params {'max_depth': 14, 'learning_rate': '0.310', 'n_estimators': 700, 'min_child_weight': 8, 'gamma': '1.200', 'subsample': '0.400', 'colsample_bytree': '0.400', 'reg_alpha': '2.900', 'scale_pos_weight': '5.500'}
+Accuracy of lgb 0.771 params {'max_depth': 20, 'learning_rate': '0.330', 'n_estimators': 900, 'min_child_weight': 3, 'gamma': '4.100', 'subsample': '0.400', 'colsample_bytree': '0.300', 'reg_alpha': '3.700', 'scale_pos_weight': '3.400'}
+Accuracy of lgb 0.801 params {'max_depth': 9, 'learning_rate': '0.230', 'n_estimators': 1400, 'min_child_weight': 2, 'gamma': '0.300', 'subsample': '0.500', 'colsample_bytree': '0.700', 'reg_alpha': '0.100', 'scale_pos_weight': '3.000'}
+Accuracy of lgb 0.746 params {'max_depth': 13, 'learning_rate': '0.430', 'n_estimators': 400, 'min_child_weight': 7, 'gamma': '5.000', 'subsample': '0.300', 'colsample_bytree': '0.600', 'reg_alpha': '3.600', 'scale_pos_weight': '3.800'}
+Accuracy of lgb 0.804 params {'max_depth': 18, 'learning_rate': '0.050', 'n_estimators': 900, 'min_child_weight': 6, 'gamma': '0.100', 'subsample': '0.500', 'colsample_bytree': '0.300', 'reg_alpha': '1.100', 'scale_pos_weight': '4.200'}
+Accuracy of lgb 0.776 params {'max_depth': 7, 'learning_rate': '0.080', 'n_estimators': 1100, 'min_child_weight': 6, 'gamma': '0.700', 'subsample': '0.300', 'colsample_bytree': '0.600', 'reg_alpha': '4.800', 'scale_pos_weight': '5.600'}
+Accuracy of lgb 0.688 params {'max_depth': 1, 'learning_rate': '0.490', 'n_estimators': 400, 'min_child_weight': 13, 'gamma': '1.200', 'subsample': '0.300', 'colsample_bytree': '0.500', 'reg_alpha': '2.400', 'scale_pos_weight': '3.800'}
+Accuracy of lgb 0.681 params {'max_depth': 1, 'learning_rate': '0.500', 'n_estimators': 400, 'min_child_weight': 14, 'gamma': '1.100', 'subsample': '0.300', 'colsample_bytree': '0.500', 'reg_alpha': '2.300', 'scale_pos_weight': '4.100'}
+Accuracy of lgb 0.671 params {'max_depth': 1, 'learning_rate': '0.500', 'n_estimators': 500, 'min_child_weight': 14, 'gamma': '1.200', 'subsample': '0.300', 'colsample_bytree': '0.500', 'reg_alpha': '2.300', 'scale_pos_weight': '4.900'}
+Accuracy of lgb 0.728 params {'max_depth': 6, 'learning_rate': '0.490', 'n_estimators': 500, 'min_child_weight': 15, 'gamma': '1.500', 'subsample': '0.300', 'colsample_bytree': '0.200', 'reg_alpha': '2.000', 'scale_pos_weight': '5.900'}
+Accuracy of lgb 0.669 params {'max_depth': 1, 'learning_rate': '0.490', 'n_estimators': 500, 'min_child_weight': 15, 'gamma': '0.800', 'subsample': '0.300', 'colsample_bytree': '0.500', 'reg_alpha': '2.300', 'scale_pos_weight': '4.900'}
+Accuracy of lgb 0.740 params {'max_depth': 4, 'learning_rate': '0.360', 'n_estimators': 500, 'min_child_weight': 16, 'gamma': '0.700', 'subsample': '0.300', 'colsample_bytree': '0.600', 'reg_alpha': '1.800', 'scale_pos_weight': '4.900'}
+Accuracy of lgb 0.729 params {'max_depth': 2, 'learning_rate': '0.430', 'n_estimators': 600, 'min_child_weight': 20, 'gamma': '0.600', 'subsample': '0.300', 'colsample_bytree': '0.400', 'reg_alpha': '0.700', 'scale_pos_weight': '0.200'}
+Accuracy of lgb 0.763 params {'max_depth': 6, 'learning_rate': '0.160', 'n_estimators': 800, 'min_child_weight': 18, 'gamma': '0.900', 'subsample': '0.300', 'colsample_bytree': '0.500', 'reg_alpha': '2.800', 'scale_pos_weight': '6.000'}
+Accuracy of lgb 0.773 params {'max_depth': 5, 'learning_rate': '0.470', 'n_estimators': 700, 'min_child_weight': 20, 'gamma': '1.600', 'subsample': '0.600', 'colsample_bytree': '0.700', 'reg_alpha': '0.400', 'scale_pos_weight': '5.100'}
+Accuracy of lgb 0.738 params {'max_depth': 3, 'learning_rate': '0.400', 'n_estimators': 500, 'min_child_weight': 12, 'gamma': '3.000', 'subsample': '0.300', 'colsample_bytree': '0.600', 'reg_alpha': '2.600', 'scale_pos_weight': '4.400'}
+Accuracy of lgb 0.565 params {'max_depth': 1, 'learning_rate': '0.140', 'n_estimators': 600, 'min_child_weight': 16, 'gamma': '1.500', 'subsample': '0.300', 'colsample_bytree': '0.200', 'reg_alpha': '1.700', 'scale_pos_weight': '5.700'}
+Accuracy of lgb 0.601 params {'max_depth': 9, 'learning_rate': '0.000', 'n_estimators': 600, 'min_child_weight': 19, 'gamma': '2.000', 'subsample': '0.600', 'colsample_bytree': '0.400', 'reg_alpha': '1.600', 'scale_pos_weight': '5.800'}
+Accuracy of lgb 0.601 params {'max_depth': 16, 'learning_rate': '0.000', 'n_estimators': 1000, 'min_child_weight': 19, 'gamma': '2.700', 'subsample': '0.600', 'colsample_bytree': '0.200', 'reg_alpha': '1.600', 'scale_pos_weight': '5.800'}
+Accuracy of lgb 0.601 params {'max_depth': 16, 'learning_rate': '0.000', 'n_estimators': 1100, 'min_child_weight': 17, 'gamma': '3.600', 'subsample': '0.600', 'colsample_bytree': '0.200', 'reg_alpha': '0.700', 'scale_pos_weight': '5.300'}
+Accuracy of lgb 0.795 params {'max_depth': 15, 'learning_rate': '0.140', 'n_estimators': 1200, 'min_child_weight': 17, 'gamma': '3.500', 'subsample': '0.600', 'colsample_bytree': '0.200', 'reg_alpha': '0.700', 'scale_pos_weight': '4.500'}
+Accuracy of lgb 0.775 params {'max_depth': 16, 'learning_rate': '0.030', 'n_estimators': 1000, 'min_child_weight': 19, 'gamma': '2.700', 'subsample': '0.600', 'colsample_bytree': '0.200', 'reg_alpha': '1.500', 'scale_pos_weight': '6.000'}
+Accuracy of lgb 0.792 params {'max_depth': 11, 'learning_rate': '0.130', 'n_estimators': 1100, 'min_child_weight': 11, 'gamma': '4.600', 'subsample': '0.500', 'colsample_bytree': '0.300', 'reg_alpha': '0.400', 'scale_pos_weight': '5.300'}
+Accuracy of lgb 0.666 params {'max_depth': 10, 'learning_rate': '0.170', 'n_estimators': 1200, 'min_child_weight': 16, 'gamma': '3.600', 'subsample': '0.500', 'colsample_bytree': '0.200', 'reg_alpha': '0.800', 'scale_pos_weight': '0.100'}
+Accuracy of lgb 0.797 params {'max_depth': 8, 'learning_rate': '0.200', 'n_estimators': 600, 'min_child_weight': 19, 'gamma': '2.000', 'subsample': '0.600', 'colsample_bytree': '0.400', 'reg_alpha': '3.200', 'scale_pos_weight': '2.800'}
+Accuracy of lgb 0.804 params {'max_depth': 9, 'learning_rate': '0.110', 'n_estimators': 700, 'min_child_weight': 18, 'gamma': '1.500', 'subsample': '0.400', 'colsample_bytree': '0.300', 'reg_alpha': '1.400', 'scale_pos_weight': '1.600'}
+Accuracy of lgb 0.788 params {'max_depth': 16, 'learning_rate': '0.030', 'n_estimators': 1000, 'min_child_weight': 12, 'gamma': '3.100', 'subsample': '0.400', 'colsample_bytree': '0.200', 'reg_alpha': '1.800', 'scale_pos_weight': '3.600'}
+Accuracy of lgb 0.807 params {'max_depth': 20, 'learning_rate': '0.070', 'n_estimators': 1100, 'min_child_weight': 16, 'gamma': '3.800', 'subsample': '0.500', 'colsample_bytree': '0.300', 'reg_alpha': '0.000', 'scale_pos_weight': '2.500'}
+Accuracy of lgb 0.793 params {'max_depth': 17, 'learning_rate': '0.030', 'n_estimators': 1300, 'min_child_weight': 11, 'gamma': '3.300', 'subsample': '0.600', 'colsample_bytree': '0.200', 'reg_alpha': '0.300', 'scale_pos_weight': '4.700'}
+Accuracy of lgb 0.806 params {'max_depth': 10, 'learning_rate': '0.120', 'n_estimators': 700, 'min_child_weight': 20, 'gamma': '2.100', 'subsample': '0.400', 'colsample_bytree': '0.400', 'reg_alpha': '2.000', 'scale_pos_weight': '0.700'}
+Accuracy of lgb 0.785 params {'max_depth': 12, 'learning_rate': '0.210', 'n_estimators': 900, 'min_child_weight': 9, 'gamma': '2.600', 'subsample': '0.500', 'colsample_bytree': '0.300', 'reg_alpha': '4.000', 'scale_pos_weight': '5.700'}
+Accuracy of lgb 0.774 params {'max_depth': 14, 'learning_rate': '0.270', 'n_estimators': 1300, 'min_child_weight': 13, 'gamma': '3.900', 'subsample': '0.400', 'colsample_bytree': '0.200', 'reg_alpha': '0.900', 'scale_pos_weight': '5.300'}
+Accuracy of lgb 0.795 params {'max_depth': 19, 'learning_rate': '0.160', 'n_estimators': 1200, 'min_child_weight': 17, 'gamma': '4.700', 'subsample': '0.500', 'colsample_bytree': '0.300', 'reg_alpha': '1.200', 'scale_pos_weight': '3.200'}
+Accuracy of lgb 0.814 params {'max_depth': 13, 'learning_rate': '0.090', 'n_estimators': 800, 'min_child_weight': 15, 'gamma': '2.900', 'subsample': '0.600', 'colsample_bytree': '0.400', 'reg_alpha': '2.600', 'scale_pos_weight': '1.300'}
+Accuracy of lgb 0.789 params {'max_depth': 15, 'learning_rate': '0.230', 'n_estimators': 1500, 'min_child_weight': 13, 'gamma': '1.800', 'subsample': '0.400', 'colsample_bytree': '0.700', 'reg_alpha': '0.200', 'scale_pos_weight': '4.300'}
+Accuracy of lgb 0.793 params {'max_depth': 8, 'learning_rate': '0.180', 'n_estimators': 600, 'min_child_weight': 18, 'gamma': '1.700', 'subsample': '0.500', 'colsample_bytree': '0.400', 'reg_alpha': '3.400', 'scale_pos_weight': '2.800'}
+Accuracy of lgb 0.818 params {'max_depth': 9, 'min_child_weight': 7, 'reg_alpha': '6.000'}
+Accuracy of lgb 0.820 params {'max_depth': 12, 'min_child_weight': 8, 'reg_alpha': '9.000'}
+Accuracy of lgb 0.818 params {'max_depth': 7, 'min_child_weight': 8, 'reg_alpha': '12.000'}
+Accuracy of lgb 0.819 params {'max_depth': 10, 'min_child_weight': 6, 'reg_alpha': '11.000'}
+Accuracy of lgb 0.820 params {'max_depth': 10, 'min_child_weight': 4, 'reg_alpha': '10.000'}
+Accuracy of lgb 0.820 params {'max_depth': 7, 'min_child_weight': 7, 'reg_alpha': '11.000'}
+Accuracy of lgb 0.818 params {'max_depth': 12, 'min_child_weight': 7, 'reg_alpha': '11.000'}
+Accuracy of lgb 0.819 params {'max_depth': 11, 'min_child_weight': 5, 'reg_alpha': '10.000'}
+Accuracy of lgb 0.815 params {'max_depth': 5, 'min_child_weight': 6, 'reg_alpha': '6.000'}
+Accuracy of lgb 0.819 params {'max_depth': 8, 'min_child_weight': 5, 'reg_alpha': '9.000'}
+Accuracy of lgb 0.819 params {'max_depth': 6, 'min_child_weight': 4, 'reg_alpha': '10.000'}
+Accuracy of lgb 0.818 params {'max_depth': 11, 'min_child_weight': 7, 'reg_alpha': '9.000'}
+Accuracy of lgb 0.818 params {'max_depth': 7, 'min_child_weight': 6, 'reg_alpha': '11.000'}
+Accuracy of lgb 0.819 params {'max_depth': 9, 'min_child_weight': 6, 'reg_alpha': '11.000'}
+Accuracy of lgb 0.819 params {'max_depth': 12, 'min_child_weight': 8, 'reg_alpha': '7.000'}
+Accuracy of lgb 0.819 params {'max_depth': 8, 'min_child_weight': 4, 'reg_alpha': '10.000'}
+Accuracy of lgb 0.816 params {'max_depth': 5, 'min_child_weight': 6, 'reg_alpha': '9.000'}
+Accuracy of lgb 0.819 params {'max_depth': 8, 'min_child_weight': 4, 'reg_alpha': '10.000'}
+Accuracy of lgb 0.815 params {'max_depth': 5, 'min_child_weight': 5, 'reg_alpha': '10.000'}
+Accuracy of lgb 0.817 params {'max_depth': 10, 'min_child_weight': 3, 'reg_alpha': '11.000'}
+Accuracy of lgb 0.817 params {'max_depth': 5, 'min_child_weight': 5, 'reg_alpha': '7.000'}
+Accuracy of lgb 0.818 params {'max_depth': 6, 'min_child_weight': 5, 'reg_alpha': '8.000'}
+Accuracy of lgb 0.818 params {'max_depth': 6, 'min_child_weight': 3, 'reg_alpha': '8.000'}
+Accuracy of lgb 0.817 params {'max_depth': 5, 'min_child_weight': 5, 'reg_alpha': '6.000'}
+Accuracy of lgb 0.820 params {'max_depth': 6, 'min_child_weight': 6, 'reg_alpha': '8.000'}
+Accuracy of lgb 0.814 params {'max_depth': 7, 'learning_rate': '0.310', 'min_child_weight': 18, 'reg_alpha': '6.000', 'n_estimators': 1400}
+Accuracy of lgb 0.804 params {'max_depth': 14, 'learning_rate': '0.490', 'min_child_weight': 9, 'reg_alpha': '6.000', 'n_estimators': 1200}
+Accuracy of lgb 0.818 params {'max_depth': 17, 'learning_rate': '0.130', 'min_child_weight': 13, 'reg_alpha': '12.000', 'n_estimators': 1400}
+Accuracy of lgb 0.801 params {'max_depth': 18, 'learning_rate': '0.580', 'min_child_weight': 15, 'reg_alpha': '7.000', 'n_estimators': 1000}
+Accuracy of lgb 0.814 params {'max_depth': 16, 'learning_rate': '0.250', 'min_child_weight': 19, 'reg_alpha': '14.000', 'n_estimators': 1300}
+Accuracy of lgb 0.813 params {'max_depth': 14, 'learning_rate': '0.330', 'min_child_weight': 12, 'reg_alpha': '14.000', 'n_estimators': 1300}
+Accuracy of lgb 0.802 params {'max_depth': 15, 'learning_rate': '0.520', 'min_child_weight': 8, 'reg_alpha': '10.000', 'n_estimators': 1300}
+Accuracy of lgb 0.820 params {'max_depth': 10, 'learning_rate': '0.130', 'min_child_weight': 15, 'reg_alpha': '8.000', 'n_estimators': 1400}
+Accuracy of lgb 0.798 params {'max_depth': 19, 'learning_rate': '0.610', 'min_child_weight': 12, 'reg_alpha': '11.000', 'n_estimators': 1000}
+Accuracy of lgb 0.818 params {'max_depth': 18, 'learning_rate': '0.110', 'min_child_weight': 12, 'reg_alpha': '8.000', 'n_estimators': 1400}
+Accuracy of lgb 0.802 params {'max_depth': 15, 'learning_rate': '0.590', 'min_child_weight': 11, 'reg_alpha': '8.000', 'n_estimators': 1000}
+Accuracy of lgb 0.815 params {'max_depth': 7, 'learning_rate': '0.040', 'min_child_weight': 7, 'reg_alpha': '11.000', 'n_estimators': 1300}
+Accuracy of lgb 0.803 params {'max_depth': 13, 'learning_rate': '0.610', 'min_child_weight': 20, 'reg_alpha': '7.000', 'n_estimators': 1000}
+Accuracy of lgb 0.811 params {'max_depth': 12, 'learning_rate': '0.270', 'min_child_weight': 6, 'reg_alpha': '9.000', 'n_estimators': 1400}
+Accuracy of lgb 0.817 params {'max_depth': 8, 'learning_rate': '0.180', 'min_child_weight': 6, 'reg_alpha': '14.000', 'n_estimators': 1200}
+Accuracy of lgb 0.792 params {'max_depth': 16, 'learning_rate': '0.750', 'min_child_weight': 15, 'reg_alpha': '7.000', 'n_estimators': 1300}
+Accuracy of lgb 0.815 params {'max_depth': 7, 'learning_rate': '0.250', 'min_child_weight': 7, 'reg_alpha': '14.000', 'n_estimators': 1200}
+Accuracy of lgb 0.809 params {'max_depth': 15, 'learning_rate': '0.430', 'min_child_weight': 11, 'reg_alpha': '10.000', 'n_estimators': 1400}
+Accuracy of lgb 0.817 params {'max_depth': 9, 'learning_rate': '0.070', 'min_child_weight': 12, 'reg_alpha': '13.000', 'n_estimators': 900}
+Accuracy of lgb 0.819 params {'max_depth': 7, 'learning_rate': '0.170', 'min_child_weight': 19, 'reg_alpha': '14.000', 'n_estimators': 1200}
+Accuracy of lgb 0.793 params {'max_depth': 20, 'learning_rate': '0.800', 'min_child_weight': 16, 'reg_alpha': '12.000', 'n_estimators': 1100}
+Accuracy of lgb 0.793 params {'max_depth': 20, 'learning_rate': '0.800', 'min_child_weight': 16, 'reg_alpha': '12.000', 'n_estimators': 1100}
+Accuracy of lgb 0.795 params {'max_depth': 19, 'learning_rate': '0.760', 'min_child_weight': 17, 'reg_alpha': '12.000', 'n_estimators': 1100}
+Accuracy of lgb 0.794 params {'max_depth': 20, 'learning_rate': '0.730', 'min_child_weight': 14, 'reg_alpha': '9.000', 'n_estimators': 1500}
+Accuracy of lgb 0.800 params {'max_depth': 11, 'learning_rate': '0.690', 'min_child_weight': 17, 'reg_alpha': '9.000', 'n_estimators': 1100}
+Accuracy of lgb 0.796 params {'max_depth': 17, 'learning_rate': '0.670', 'min_child_weight': 14, 'reg_alpha': '5.000', 'n_estimators': 1100}
+Accuracy of lgb 0.795 params {'max_depth': 17, 'learning_rate': '0.790', 'min_child_weight': 16, 'reg_alpha': '5.000', 'n_estimators': 900}
+Accuracy of lgb 0.797 params {'max_depth': 19, 'learning_rate': '0.690', 'min_child_weight': 10, 'reg_alpha': '11.000', 'n_estimators': 1500}
+Accuracy of lgb 0.809 params {'max_depth': 16, 'learning_rate': '0.380', 'min_child_weight': 18, 'reg_alpha': '6.000', 'n_estimators': 1300}
+Accuracy of lgb 0.797 params {'max_depth': 13, 'learning_rate': '0.740', 'min_child_weight': 14, 'reg_alpha': '15.000', 'n_estimators': 1100}
+Accuracy of lgb 0.804 params {'max_depth': 18, 'learning_rate': '0.470', 'min_child_weight': 17, 'reg_alpha': '13.000', 'n_estimators': 1200}
+Accuracy of lgb 0.799 params {'max_depth': 20, 'learning_rate': '0.650', 'min_child_weight': 20, 'reg_alpha': '7.000', 'n_estimators': 1500}
+Accuracy of lgb 0.804 params {'max_depth': 16, 'learning_rate': '0.530', 'min_child_weight': 15, 'reg_alpha': '13.000', 'n_estimators': 1200}
+Accuracy of lgb 0.795 params {'max_depth': 14, 'learning_rate': '0.790', 'min_child_weight': 18, 'reg_alpha': '6.000', 'n_estimators': 1300}
+Accuracy of lgb 0.802 params {'max_depth': 12, 'learning_rate': '0.550', 'min_child_weight': 13, 'reg_alpha': '15.000', 'n_estimators': 900}
+Accuracy of lgb 0.806 params {'max_depth': 17, 'learning_rate': '0.450', 'min_child_weight': 16, 'reg_alpha': '11.000', 'n_estimators': 1100}
+Accuracy of lgb 0.807 params {'max_depth': 19, 'learning_rate': '0.370', 'min_child_weight': 19, 'reg_alpha': '12.000', 'n_estimators': 1300}
+Accuracy of lgb 0.798 params {'max_depth': 16, 'learning_rate': '0.640', 'min_child_weight': 9, 'reg_alpha': '10.000', 'n_estimators': 1000}
+Accuracy of lgb 0.795 params {'max_depth': 14, 'learning_rate': '0.720', 'min_child_weight': 14, 'reg_alpha': '9.000', 'n_estimators': 1200}
+Accuracy of lgb 0.803 params {'max_depth': 18, 'learning_rate': '0.510', 'min_child_weight': 15, 'reg_alpha': '8.000', 'n_estimators': 1300}
+Accuracy of lgb 0.793 params {'max_depth': 15, 'learning_rate': '0.770', 'min_child_weight': 18, 'reg_alpha': '7.000', 'n_estimators': 1000}
+Accuracy of lgb 0.798 params {'max_depth': 15, 'learning_rate': '0.620', 'min_child_weight': 20, 'reg_alpha': '5.000', 'n_estimators': 1000}
+Accuracy of lgb 0.802 params {'max_depth': 11, 'learning_rate': '0.570', 'min_child_weight': 18, 'reg_alpha': '7.000', 'n_estimators': 900}
+Accuracy of lgb 0.811 params {'max_depth': 13, 'learning_rate': '0.320', 'min_child_weight': 13, 'reg_alpha': '6.000', 'n_estimators': 1400}
+Accuracy of lgb 0.792 params {'max_depth': 14, 'learning_rate': '0.770', 'min_child_weight': 17, 'reg_alpha': '7.000', 'n_estimators': 1000}
+Accuracy of lgb 0.799 params {'max_depth': 12, 'learning_rate': '0.700', 'min_child_weight': 11, 'reg_alpha': '8.000', 'n_estimators': 1300}
+Accuracy of lgb 0.802 params {'max_depth': 10, 'learning_rate': '0.580', 'min_child_weight': 19, 'reg_alpha': '6.000', 'n_estimators': 1400}
+Accuracy of lgb 0.813 params {'max_depth': 14, 'learning_rate': '0.290', 'min_child_weight': 15, 'reg_alpha': '5.000', 'n_estimators': 1300}
+Accuracy of lgb 0.814 params {'max_depth': 11, 'learning_rate': '0.220', 'min_child_weight': 17, 'reg_alpha': '7.000', 'n_estimators': 900}
+Accuracy of lgb 0.803 params {'max_depth': 16, 'learning_rate': '0.500', 'min_child_weight': 13, 'reg_alpha': '8.000', 'n_estimators': 1200}
+Accuracy of lgb 0.812 params {'max_depth': 6, 'learning_rate': '0.410', 'min_child_weight': 10, 'reg_alpha': '10.000', 'n_estimators': 1500}
+Accuracy of lgb 0.815 params {'max_depth': 12, 'learning_rate': '0.020', 'min_child_weight': 15, 'reg_alpha': '9.000', 'n_estimators': 1400}
+Accuracy of lgb 0.796 params {'max_depth': 10, 'learning_rate': '0.760', 'min_child_weight': 19, 'reg_alpha': '7.000', 'n_estimators': 1000}
+Accuracy of lgb 0.803 params {'max_depth': 9, 'learning_rate': '0.550', 'min_child_weight': 12, 'reg_alpha': '8.000', 'n_estimators': 1200}
+Accuracy of lgb 0.809 params {'max_depth': 18, 'learning_rate': '0.360', 'min_child_weight': 16, 'reg_alpha': '6.000', 'n_estimators': 1100}
+Accuracy of lgb 0.799 params {'max_depth': 15, 'learning_rate': '0.660', 'min_child_weight': 11, 'reg_alpha': '5.000', 'n_estimators': 1400}
+Accuracy of lgb 0.797 params {'max_depth': 14, 'learning_rate': '0.620', 'min_child_weight': 5, 'reg_alpha': '9.000', 'n_estimators': 1300}
+Accuracy of lgb 0.800 params {'max_depth': 8, 'learning_rate': '0.710', 'min_child_weight': 17, 'reg_alpha': '8.000', 'n_estimators': 1000}
+Accuracy of lgb 0.797 params {'max_depth': 13, 'learning_rate': '0.740', 'min_child_weight': 14, 'reg_alpha': '10.000', 'n_estimators': 1500}
+Accuracy of lgb 0.803 params {'max_depth': 17, 'learning_rate': '0.480', 'min_child_weight': 16, 'reg_alpha': '11.000', 'n_estimators': 1400}
+Accuracy of lgb 0.819 params {'max_depth': 15, 'learning_rate': '0.100', 'min_child_weight': 20, 'reg_alpha': '6.000', 'n_estimators': 1100}
+Accuracy of lgb 0.800 params {'max_depth': 14, 'learning_rate': '0.600', 'min_child_weight': 10, 'reg_alpha': '5.000', 'n_estimators': 900}
+Accuracy of lgb 0.796 params {'max_depth': 16, 'learning_rate': '0.670', 'min_child_weight': 9, 'reg_alpha': '7.000', 'n_estimators': 1200}
+Accuracy of lgb 0.791 params {'max_depth': 19, 'learning_rate': '0.770', 'min_child_weight': 13, 'reg_alpha': '9.000', 'n_estimators': 1300}
+Accuracy of lgb 0.815 params {'max_depth': 19, 'learning_rate': '0.170', 'min_child_weight': 8, 'reg_alpha': '9.000', 'n_estimators': 1300}
+Accuracy of lgb 0.791 params {'max_depth': 18, 'learning_rate': '0.780', 'min_child_weight': 12, 'reg_alpha': '8.000', 'n_estimators': 1300}
+Accuracy of lgb 0.791 params {'max_depth': 19, 'learning_rate': '0.800', 'min_child_weight': 11, 'reg_alpha': '8.000', 'n_estimators': 1300}
+Accuracy of lgb 0.795 params {'max_depth': 19, 'learning_rate': '0.780', 'min_child_weight': 12, 'reg_alpha': '10.000', 'n_estimators': 1300}
+Accuracy of lgb 0.799 params {'max_depth': 20, 'learning_rate': '0.680', 'min_child_weight': 9, 'reg_alpha': '9.000', 'n_estimators': 1300}
+Accuracy of lgb 0.798 params {'max_depth': 19, 'learning_rate': '0.640', 'min_child_weight': 8, 'reg_alpha': '8.000', 'n_estimators': 1400}
+Accuracy of lgb 0.794 params {'max_depth': 18, 'learning_rate': '0.740', 'min_child_weight': 7, 'reg_alpha': '10.000', 'n_estimators': 1400}
+Accuracy of lgb 0.794 params {'max_depth': 17, 'learning_rate': '0.800', 'min_child_weight': 11, 'reg_alpha': '11.000', 'n_estimators': 1200}
+Accuracy of lgb 0.795 params {'max_depth': 20, 'learning_rate': '0.720', 'min_child_weight': 10, 'reg_alpha': '9.000', 'n_estimators': 1500}
+Accuracy of lgb 0.794 params {'max_depth': 17, 'learning_rate': '0.700', 'min_child_weight': 13, 'reg_alpha': '8.000', 'n_estimators': 1300}
+Accuracy of lgb 0.790 params {'max_depth': 18, 'learning_rate': '0.800', 'min_child_weight': 12, 'reg_alpha': '10.000', 'n_estimators': 1300}
+Accuracy of lgb 0.800 params {'max_depth': 20, 'learning_rate': '0.530', 'min_child_weight': 8, 'reg_alpha': '11.000', 'n_estimators': 1200}
+Accuracy of lgb 0.800 params {'max_depth': 19, 'learning_rate': '0.630', 'min_child_weight': 11, 'reg_alpha': '12.000', 'n_estimators': 1400}
+Accuracy of lgb 0.806 params {'max_depth': 18, 'learning_rate': '0.450', 'min_child_weight': 6, 'reg_alpha': '10.000', 'n_estimators': 1300}
+Accuracy of lgb 0.801 params {'max_depth': 17, 'learning_rate': '0.560', 'min_child_weight': 14, 'reg_alpha': '11.000', 'n_estimators': 1200}
+Accuracy of lgb 0.796 params {'max_depth': 20, 'learning_rate': '0.750', 'min_child_weight': 12, 'reg_alpha': '13.000', 'n_estimators': 1300}
+Accuracy of lgb 0.795 params {'max_depth': 19, 'learning_rate': '0.720', 'min_child_weight': 13, 'reg_alpha': '9.000', 'n_estimators': 1400}
+Accuracy of lgb 0.800 params {'max_depth': 16, 'learning_rate': '0.590', 'min_child_weight': 10, 'reg_alpha': '10.000', 'n_estimators': 1500}
+Accuracy of lgb 0.793 params {'max_depth': 18, 'learning_rate': '0.800', 'min_child_weight': 9, 'reg_alpha': '12.000', 'n_estimators': 1200}
+Accuracy of lgb 0.798 params {'max_depth': 20, 'learning_rate': '0.660', 'min_child_weight': 11, 'reg_alpha': '9.000', 'n_estimators': 1400}
+Accuracy of lgb 0.809 params {'max_depth': 19, 'learning_rate': '0.350', 'min_child_weight': 14, 'reg_alpha': '11.000', 'n_estimators': 1300}
+Accuracy of lgb 0.797 params {'max_depth': 18, 'learning_rate': '0.690', 'min_child_weight': 13, 'reg_alpha': '10.000', 'n_estimators': 1300}
+Accuracy of lgb 0.808 params {'max_depth': 17, 'learning_rate': '0.390', 'min_child_weight': 12, 'reg_alpha': '8.000', 'n_estimators': 1200}
+Accuracy of lgb 0.791 params {'max_depth': 16, 'learning_rate': '0.760', 'min_child_weight': 10, 'reg_alpha': '9.000', 'n_estimators': 1500}
+Accuracy of lgb 0.814 params {'max_depth': 16, 'learning_rate': '0.210', 'min_child_weight': 7, 'reg_alpha': '7.000', 'n_estimators': 1500}
+Accuracy of lgb 0.799 params {'max_depth': 15, 'learning_rate': '0.610', 'min_child_weight': 8, 'reg_alpha': '11.000', 'n_estimators': 1500}
+Accuracy of lgb 0.793 params {'max_depth': 16, 'learning_rate': '0.760', 'min_child_weight': 9, 'reg_alpha': '12.000', 'n_estimators': 1500}
+Accuracy of lgb 0.807 params {'max_depth': 17, 'learning_rate': '0.420', 'min_child_weight': 10, 'reg_alpha': '9.000', 'n_estimators': 1400}
+Accuracy of lgb 0.805 params {'max_depth': 15, 'learning_rate': '0.530', 'min_child_weight': 15, 'reg_alpha': '13.000', 'n_estimators': 1100}
+Accuracy of lgb 0.811 params {'max_depth': 18, 'learning_rate': '0.300', 'min_child_weight': 6, 'reg_alpha': '9.000', 'n_estimators': 1400}
+Accuracy of lgb 0.811 params {'max_depth': 13, 'learning_rate': '0.270', 'min_child_weight': 13, 'reg_alpha': '10.000', 'n_estimators': 1500}
+Accuracy of lgb 0.798 params {'max_depth': 16, 'learning_rate': '0.650', 'min_child_weight': 12, 'reg_alpha': '10.000', 'n_estimators': 1500}
+Accuracy of lgb 0.793 params {'max_depth': 12, 'learning_rate': '0.780', 'min_child_weight': 5, 'reg_alpha': '12.000', 'n_estimators': 1400}
+Accuracy of lgb 0.806 params {'max_depth': 17, 'learning_rate': '0.460', 'min_child_weight': 7, 'reg_alpha': '7.000', 'n_estimators': 1200}
+Accuracy of lgb 0.803 params {'max_depth': 15, 'learning_rate': '0.490', 'min_child_weight': 14, 'reg_alpha': '14.000', 'n_estimators': 1100}
+Accuracy of lgb 0.818 params {'max_depth': 18, 'learning_rate': '0.050', 'min_child_weight': 10, 'reg_alpha': '8.000', 'n_estimators': 1400}
+Accuracy of lgb 0.800 params {'max_depth': 6, 'learning_rate': '0.730', 'min_child_weight': 11, 'reg_alpha': '6.000', 'n_estimators': 1100}
+Accuracy of lgb 0.797 params {'max_depth': 14, 'learning_rate': '0.680', 'min_child_weight': 16, 'reg_alpha': '11.000', 'n_estimators': 1400}
+Accuracy of lgb 0.799 params {'max_depth': 16, 'learning_rate': '0.580', 'min_child_weight': 9, 'reg_alpha': '10.000', 'n_estimators': 1300}
+Accuracy of lgb 0.799 params {'max_depth': 20, 'learning_rate': '0.710', 'min_child_weight': 15, 'reg_alpha': '9.000', 'n_estimators': 1500}
+Accuracy of lgb 0.792 params {'max_depth': 19, 'learning_rate': '0.750', 'min_child_weight': 12, 'reg_alpha': '11.000', 'n_estimators': 1200}
+Accuracy of lgb 0.817 params {'max_depth': 18, 'learning_rate': '0.120', 'min_child_weight': 8, 'reg_alpha': '7.000', 'n_estimators': 1200}
+Accuracy of lgb 0.800 params {'max_depth': 17, 'learning_rate': '0.630', 'min_child_weight': 11, 'reg_alpha': '9.000', 'n_estimators': 1400}
+Accuracy of lgb 0.794 params {'max_depth': 11, 'learning_rate': '0.800', 'min_child_weight': 10, 'reg_alpha': '15.000', 'n_estimators': 1500}
+Accuracy of lgb 0.793 params {'max_depth': 13, 'learning_rate': '0.770', 'min_child_weight': 14, 'reg_alpha': '8.000', 'n_estimators': 1300}
+Accuracy of lgb 0.802 params {'max_depth': 20, 'learning_rate': '0.600', 'min_child_weight': 13, 'reg_alpha': '13.000', 'n_estimators': 1100}
+Accuracy of lgb 0.802 params {'max_depth': 14, 'learning_rate': '0.550', 'min_child_weight': 9, 'reg_alpha': '10.000', 'n_estimators': 1300}
+Accuracy of lgb 0.802 params {'max_depth': 20, 'learning_rate': '0.670', 'min_child_weight': 8, 'reg_alpha': '11.000', 'n_estimators': 1150}
+Accuracy of lgb 0.798 params {'max_depth': 16, 'learning_rate': '0.670', 'min_child_weight': 11, 'reg_alpha': '9.000', 'n_estimators': 1500}
+Accuracy of lgb 0.803 params {'max_depth': 15, 'learning_rate': '0.510', 'min_child_weight': 12, 'reg_alpha': '8.000', 'n_estimators': 1400}
+Accuracy of lgb 0.817 params {'max_depth': 19, 'learning_rate': '0.240', 'min_child_weight': 13, 'reg_alpha': '6.000', 'n_estimators': 1450}
+Accuracy of lgb 0.804 params {'max_depth': 19, 'learning_rate': '0.440', 'min_child_weight': 10, 'reg_alpha': '7.000', 'n_estimators': 1200}
+Accuracy of lgb 0.804 params {'max_depth': 18, 'learning_rate': '0.520', 'min_child_weight': 15, 'reg_alpha': '7.000', 'n_estimators': 1150}
+Accuracy of lgb 0.799 params {'max_depth': 9, 'learning_rate': '0.770', 'min_child_weight': 13, 'reg_alpha': '11.000', 'n_estimators': 950}
+Accuracy of lgb 0.812 params {'max_depth': 18, 'learning_rate': '0.340', 'min_child_weight': 13, 'reg_alpha': '12.000', 'n_estimators': 1300}
+Accuracy of lgb 0.818 params {'max_depth': 17, 'learning_rate': '0.090', 'min_child_weight': 6, 'reg_alpha': '6.000', 'n_estimators': 1400}
+Accuracy of lgb 0.821 params {'max_depth': 19, 'learning_rate': '0.060', 'min_child_weight': 10, 'reg_alpha': '13.000', 'n_estimators': 1350}
+Accuracy of lgb 0.798 params {'max_depth': 8, 'learning_rate': '0.700', 'min_child_weight': 8, 'reg_alpha': '8.000', 'n_estimators': 1300}
+Accuracy of lgb 0.797 params {'max_depth': 19, 'learning_rate': '0.730', 'min_child_weight': 14, 'reg_alpha': '11.000', 'n_estimators': 1000}
+Accuracy of lgb 0.817 params {'max_depth': 10, 'learning_rate': '0.030', 'min_child_weight': 6, 'reg_alpha': '8.000', 'n_estimators': 1200}
+Accuracy of lgb 0.799 params {'max_depth': 17, 'learning_rate': '0.650', 'min_child_weight': 16, 'reg_alpha': '10.000', 'n_estimators': 1200}
+Accuracy of lgb 0.789 params {'max_depth': 18, 'learning_rate': '0.800', 'min_child_weight': 7, 'reg_alpha': '6.000', 'n_estimators': 1400}
+Accuracy of lgb 0.804 params {'max_depth': 18, 'learning_rate': '0.600', 'min_child_weight': 6, 'reg_alpha': '9.000', 'n_estimators': 1300}
+Accuracy of lgb 0.817 params {'max_depth': 15, 'learning_rate': '0.250', 'min_child_weight': 9, 'reg_alpha': '9.000', 'n_estimators': 1050}
+Accuracy of lgb 0.816 params {'max_depth': 15, 'learning_rate': '0.150', 'min_child_weight': 5, 'reg_alpha': '5.000', 'n_estimators': 1500}
+Accuracy of lgb 0.804 params {'max_depth': 17, 'learning_rate': '0.590', 'min_child_weight': 7, 'reg_alpha': '13.000', 'n_estimators': 1400}
+Accuracy of lgb 0.793 params {'max_depth': 12, 'learning_rate': '0.750', 'min_child_weight': 7, 'reg_alpha': '6.000', 'n_estimators': 1500}
+Accuracy of lgb 0.817 params {'max_depth': 15, 'learning_rate': '0.290', 'min_child_weight': 11, 'reg_alpha': '10.000', 'n_estimators': 1300}
+Accuracy of lgb 0.808 params {'max_depth': 14, 'learning_rate': '0.390', 'min_child_weight': 6, 'reg_alpha': '13.000', 'n_estimators': 1400}
+Accuracy of lgb 0.811 params {'max_depth': 6, 'learning_rate': '0.530', 'min_child_weight': 6, 'reg_alpha': '6.000', 'n_estimators': 1250}
+Accuracy of lgb 0.792 params {'max_depth': 15, 'learning_rate': '0.790', 'min_child_weight': 5, 'reg_alpha': '5.000', 'n_estimators': 1500}
+Accuracy of lgb 0.804 params {'max_depth': 11, 'learning_rate': '0.580', 'min_child_weight': 8, 'reg_alpha': '12.000', 'n_estimators': 1250}
+Accuracy of lgb 0.796 params {'max_depth': 13, 'learning_rate': '0.630', 'min_child_weight': 8, 'reg_alpha': '6.000', 'n_estimators': 1400}
+Accuracy of lgb 0.797 params {'max_depth': 16, 'learning_rate': '0.710', 'min_child_weight': 7, 'reg_alpha': '15.000', 'n_estimators': 1500}
+Accuracy of lgb 0.821 params {'max_depth': 11, 'learning_rate': '0.190', 'min_child_weight': 17, 'reg_alpha': '11.000', 'n_estimators': 950}
+Accuracy of lgb 0.814 params {'max_depth': 18, 'learning_rate': '0.200', 'min_child_weight': 7, 'reg_alpha': '14.000', 'n_estimators': 1400}
+Accuracy of lgb 0.804 params {'max_depth': 11, 'learning_rate': '0.600', 'min_child_weight': 13, 'reg_alpha': '9.000', 'n_estimators': 1400}
+Accuracy of lgb 0.809 params {'max_depth': 7, 'learning_rate': '0.650', 'min_child_weight': 6, 'reg_alpha': '10.000', 'n_estimators': 1100}
+Accuracy of lgb 0.812 params {'max_depth': 20, 'learning_rate': '0.240', 'min_child_weight': 9, 'reg_alpha': '7.000', 'n_estimators': 1500}
+Accuracy of lgb 0.816 params {'max_depth': 9, 'learning_rate': '0.040', 'min_child_weight': 18, 'reg_alpha': '12.000', 'n_estimators': 950}
+Accuracy of lgb 0.802 params {'max_depth': 17, 'learning_rate': '0.570', 'min_child_weight': 8, 'reg_alpha': '12.000', 'n_estimators': 1400}
+Accuracy of lgb 0.806 params {'max_depth': 9, 'learning_rate': '0.660', 'min_child_weight': 8, 'reg_alpha': '6.000', 'n_estimators': 1150}
+Accuracy of lgb 0.797 params {'max_depth': 16, 'learning_rate': '0.680', 'min_child_weight': 10, 'reg_alpha': '14.000', 'n_estimators': 1500}
+Accuracy of lgb 0.790 params {'max_depth': 18, 'learning_rate': '0.790', 'min_child_weight': 6, 'reg_alpha': '5.000', 'n_estimators': 1400}
+Accuracy of lgb 0.798 params {'max_depth': 9, 'learning_rate': '0.730', 'min_child_weight': 6, 'reg_alpha': '5.000', 'n_estimators': 1300}
+Accuracy of lgb 0.821 params {'max_depth': 14, 'learning_rate': '0.100', 'min_child_weight': 8, 'reg_alpha': '7.000', 'n_estimators': 1200}
+Accuracy of lgb 0.797 params {'max_depth': 19, 'learning_rate': '0.610', 'min_child_weight': 6, 'reg_alpha': '5.000', 'n_estimators': 1400}
+Accuracy of lgb 0.792 params {'max_depth': 20, 'learning_rate': '0.780', 'min_child_weight': 5, 'reg_alpha': '5.000', 'n_estimators': 1300}
+Accuracy of lgb 0.805 params {'max_depth': 10, 'learning_rate': '0.470', 'min_child_weight': 5, 'reg_alpha': '6.000', 'n_estimators': 1400}
+Accuracy of lgb 0.812 params {'max_depth': 11, 'learning_rate': '0.020', 'min_child_weight': 9, 'reg_alpha': '11.000', 'n_estimators': 1000}
+Accuracy of lgb 0.801 params {'max_depth': 18, 'learning_rate': '0.550', 'min_child_weight': 7, 'reg_alpha': '5.000', 'n_estimators': 1300}
+Accuracy of lgb 0.812 params {'max_depth': 11, 'learning_rate': '0.390', 'min_child_weight': 11, 'reg_alpha': '5.000', 'n_estimators': 1300}
+Accuracy of lgb 0.798 params {'max_depth': 11, 'learning_rate': '0.660', 'min_child_weight': 5, 'reg_alpha': '6.000', 'n_estimators': 1400}
+Accuracy of lgb 0.801 params {'max_depth': 7, 'learning_rate': '0.760', 'min_child_weight': 15, 'reg_alpha': '14.000', 'n_estimators': 900}
+Accuracy of lgb 0.797 params {'max_depth': 7, 'learning_rate': '0.700', 'min_child_weight': 6, 'reg_alpha': '5.000', 'n_estimators': 1400}
+Accuracy of lgb 0.806 params {'max_depth': 20, 'learning_rate': '0.520', 'min_child_weight': 17, 'reg_alpha': '7.000', 'n_estimators': 1300}
+Accuracy of lgb 0.791 params {'max_depth': 18, 'learning_rate': '0.760', 'min_child_weight': 6, 'reg_alpha': '6.000', 'n_estimators': 1400}
+Accuracy of lgb 0.795 params {'max_depth': 17, 'learning_rate': '0.790', 'min_child_weight': 18, 'reg_alpha': '7.000', 'n_estimators': 1300}
+Accuracy of lgb 0.809 params {'max_depth': 19, 'learning_rate': '0.320', 'min_child_weight': 8, 'reg_alpha': '6.000', 'n_estimators': 1300}
+Accuracy of lgb 0.792 params {'max_depth': 20, 'learning_rate': '0.740', 'min_child_weight': 7, 'reg_alpha': '5.000', 'n_estimators': 1300}
+Accuracy of lgb 0.815 params {'max_depth': 18, 'learning_rate': '0.020', 'min_child_weight': 5, 'reg_alpha': '12.000', 'n_estimators': 1400}
+Accuracy of lgb 0.800 params {'max_depth': 14, 'learning_rate': '0.640', 'min_child_weight': 9, 'reg_alpha': '11.000', 'n_estimators': 1500}
+Accuracy of lgb 0.791 params {'max_depth': 16, 'learning_rate': '0.800', 'min_child_weight': 8, 'reg_alpha': '8.000', 'n_estimators': 1500}
+Accuracy of lgb 0.796 params {'max_depth': 17, 'learning_rate': '0.770', 'min_child_weight': 11, 'reg_alpha': '10.000', 'n_estimators': 1500}
+Accuracy of lgb 0.796 params {'max_depth': 19, 'learning_rate': '0.720', 'min_child_weight': 9, 'reg_alpha': '7.000', 'n_estimators': 1500}
+Accuracy of lgb 0.796 params {'max_depth': 17, 'learning_rate': '0.690', 'min_child_weight': 7, 'reg_alpha': '9.000', 'n_estimators': 1400}
+Accuracy of lgb 0.788 params {'max_depth': 18, 'learning_rate': '0.790', 'min_child_weight': 10, 'reg_alpha': '5.000', 'n_estimators': 1500}
+Accuracy of lgb 0.791 params {'max_depth': 18, 'learning_rate': '0.740', 'min_child_weight': 12, 'reg_alpha': '6.000', 'n_estimators': 1400}
+Accuracy of lgb 0.790 params {'max_depth': 19, 'learning_rate': '0.790', 'min_child_weight': 9, 'reg_alpha': '6.000', 'n_estimators': 1500}
+Accuracy of lgb 0.796 params {'max_depth': 20, 'learning_rate': '0.670', 'min_child_weight': 10, 'reg_alpha': '5.000', 'n_estimators': 1400}
